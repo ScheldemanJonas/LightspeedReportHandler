@@ -1,2 +1,0 @@
-numpy==1.21.0
-pyinstaller @ https://github.com/pyinstaller/pyinstaller/archive/develop.zip
